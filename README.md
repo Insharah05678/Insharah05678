@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Insharah Riaz @Insharah05678
-- 👀 I’m interested in Front-End Developer & Graphics Designing
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Insharah Riaz undergraduate student of Computer Science, enrolled in Jinnah University For Women. (Karachi, Sindh, Pakistan)
+- 👀 I’m interested in Front-End Developer, Graphics Designing, Python 
+- 🌱 I’m currently learning Andriod Studio Flutter (App development)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me insharah.ir@gmail.com
 
 <!---
 Insharah05678/Insharah05678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
