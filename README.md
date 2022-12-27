@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Insharah Riaz undergraduate student of Computer Science, enrolled in Jinnah University For Women. (Karachi, Sindh, Pakistan)
 - 👀 I’m interested in Front-End Developer, Graphics Designing, Python Programming 
-- 🌱 I’m currently learning Andriod Studio Flutter (App development)
+- 🌱 I’m currently learning Andriod Studio & Flutter (For App development)
 - 💞️ I’m looking to collaborate on Front-End Developer, Graphics Designing, Python Programming 
 - 📫 How to reach me insharah.ir@gmail.com
 
